@@ -1,5 +1,5 @@
 {
-  "name": "bulma",
+  "name": "bulma-rep",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/modojodo/bulma/issues"
   },
-  "homepage": "https://github.com/modojodo/bulma#readme"
+  "homepage": "https://github.com/modojodo/bulma#readme",
+  "dependencies": {
+    "bulma": "^0.8.2"
+  }
 }
