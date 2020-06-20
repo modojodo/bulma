@@ -2,7 +2,7 @@
   "name": "bulma-rep",
   "description": "Bulma learning project",
   "devDependencies": {
-    "http-server": "^0.12.1",
+    "http-server": "^0.12.3",
     "parcel-bundler": "^1.12.4"
   },
   "homepage": "https://github.com/jgthms/bulma-start#readme",
